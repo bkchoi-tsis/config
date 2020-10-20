@@ -1,9 +1,5 @@
-#bkchoi:
-#  profile: dev
-#  said:
-#    first: Hello
-#    second: world
-
-said:
-  first: Hello1
-  second: world1
+bkchoi:
+  profile: default
+  said:
+    first: Hello2
+    second: world2
